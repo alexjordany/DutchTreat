@@ -18,6 +18,14 @@
     {
       "library": "jquery-validate@1.19.2",
       "destination": "wwwroot/lib/jquery-validation"
-    }
+    },
+    {
+      "library": "font-awesome@5.15.1",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "font-awesome-animation@0.3.0",
+      "destination": "wwwroot/lib/font-awesome-animation/"
+    } 
   ]
 }
