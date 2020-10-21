@@ -76,3 +76,5 @@ C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\Microsoft.E
 C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\config.json
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\Razor\Views\App\Shop.cshtml.g.cs
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\Data\art.json
