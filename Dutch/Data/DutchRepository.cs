@@ -23,12 +23,19 @@ namespace DutchTreat.Data
             _dutchContext.Add(model);
         }
 
-        public IEnumerable<Order> GetAllOrders()
+        public IEnumerable<Order> GetAllOrders(bool includeItems)
         {
-            return _dutchContext.Orders
-                .Include(o => o.Items)
-                .ThenInclude(i=>i.Product)
-                .ToList();
+            if (includeItems)
+            {
+                return _dutchContext.Orders
+                        .Include(o => o.Items)
+                        .ThenInclude(i => i.Product)
+                        .ToList(); 
+            }
+            else
+            {
+                return _dutchContext.Orders.ToList();
+            }
         }
 
         public IEnumerable<Product> GetAllProducts()
