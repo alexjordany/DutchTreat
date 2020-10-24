@@ -1,5 +1,6 @@
 ﻿using DutchTreat.Data.Entities;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 
 namespace DutchTreat.Data
@@ -13,5 +14,6 @@ namespace DutchTreat.Data
         Order GetOrderById(int id);
 
         bool SaveAll();
+        void AddEntity(object model);
     }
 }

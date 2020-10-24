@@ -79,5 +79,3 @@ C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.
 C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache

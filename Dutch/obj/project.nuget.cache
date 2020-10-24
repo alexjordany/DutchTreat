@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5JnPEcmfMSy1I0w5Wy4MG8jLWgBQPzCMd4LFSutCxW0iUuHKGxsgrIuUqqLxc00CL2fMZvEK8QHNiAAAb7ai+w==",
+  "dgSpecHash": "WJh+SHEFZQVDnR68arm0ZWdft2qR7BjXHcAN2JBWxzKHxdsByINmFJp0ZrRvYw+hvGxpNZS8qoFwZNdqZHqGWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexj\\source\\repos\\DutchTreat\\Dutch\\DutchTreat.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\alexj\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
@@ -69,7 +71,7 @@
     "C:\\Users\\alexj\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\alexj\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
