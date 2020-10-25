@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nhRSPdFZkxmwbERDJ/CwoASSue5Zn6/7JgrOvK8sTk3c44ylkVot6DRhUon7RURcLwr9X46At4Y/wwKUEs2O1w==",
+  "dgSpecHash": "jIxIPMwp6UCehiWyIRiWO9RgEpVW1XLTbIMP0QTSHTrRN1bSBdXaxirjbK7SeYdixGORsK002Uq4IKAb89XM6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexj\\source\\repos\\DutchTreat\\Dutch\\DutchTreat.csproj",
   "expectedPackageFiles": [
@@ -47,6 +47,7 @@
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\microsoft.typescript.msbuild\\4.0.3\\microsoft.typescript.msbuild.4.0.3.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",

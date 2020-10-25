@@ -69,9 +69,6 @@ C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\runtimes\wi
 C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.AssemblyInfoInputs.cache
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.AssemblyInfo.cs
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.RazorAssemblyInfo.cache
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.RazorAssemblyInfo.cs
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.TagHelpers.input.cache
@@ -96,3 +93,8 @@ C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\staticwebas
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.dll
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.pdb
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.genruntimeconfig.cache
+C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.csprojAssemblyReference.cache
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\tsconfig.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
