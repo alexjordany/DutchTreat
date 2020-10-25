@@ -96,4 +96,3 @@ C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\staticwebas
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.dll
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.pdb
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.genruntimeconfig.cache
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.csprojAssemblyReference.cache
