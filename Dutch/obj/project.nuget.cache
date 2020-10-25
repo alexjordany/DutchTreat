@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lICP1gOH51i4ho+haDEfQXLCtmIkYRfsJ8D729ijy1kUM3QvKzGOT/cy6V1kgXkmpIwEvlTNYyXI3xAB3Pk96w==",
+  "dgSpecHash": "nhRSPdFZkxmwbERDJ/CwoASSue5Zn6/7JgrOvK8sTk3c44ylkVot6DRhUon7RURcLwr9X46At4Y/wwKUEs2O1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexj\\source\\repos\\DutchTreat\\Dutch\\DutchTreat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexj\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.9\\microsoft.aspnetcore.cryptography.internal.3.1.9.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.9\\microsoft.aspnetcore.cryptography.keyderivation.3.1.9.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.9\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.9.nupkg.sha512",
