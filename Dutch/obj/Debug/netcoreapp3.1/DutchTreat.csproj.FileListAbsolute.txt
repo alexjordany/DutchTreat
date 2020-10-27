@@ -95,6 +95,14 @@ C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.genruntimeconfig.cache
 C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.csprojAssemblyReference.cache
 C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\tsconfig.json
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\alexj\source\repos\DutchTreat\Dutch\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\angular.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\dutch-app\angular.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\dutch-app\e2e\tsconfig.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\dutch-app\package-lock.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\dutch-app\package.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\dutch-app\tsconfig.app.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\dutch-app\tsconfig.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\dutch-app\tsconfig.spec.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\dutch-app\tslint.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\package.json
+C:\Users\alexj\source\repos\DutchTreat\Dutch\bin\Debug\netcoreapp3.1\tsconfig.app.json

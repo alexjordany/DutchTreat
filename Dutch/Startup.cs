@@ -76,6 +76,7 @@ namespace DutchTreat
             }
 
             app.UseStaticFiles();
+            app.UseNodeModules();
 
             app.UseRouting();
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jIxIPMwp6UCehiWyIRiWO9RgEpVW1XLTbIMP0QTSHTrRN1bSBdXaxirjbK7SeYdixGORsK002Uq4IKAb89XM6g==",
+  "dgSpecHash": "/daCgFca5WRFVyxCJGNqXWSJ6mEOcTT/jWBRiO5UPcih8j2Qb+cmXEGyeZZKNYtYVdLiVRbhX2tzEddiIbCN8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexj\\source\\repos\\DutchTreat\\Dutch\\DutchTreat.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,7 @@
     "C:\\Users\\alexj\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

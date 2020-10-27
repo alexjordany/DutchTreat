@@ -84,6 +84,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[4.0.3, )"
+            },
+            "OdeToCode.UseNodeModules": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
