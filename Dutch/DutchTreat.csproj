@@ -10,6 +10,29 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\clientapp\main-es2015.js" />
+    <None Include="wwwroot\clientapp\main-es2015.js.map" />
+    <None Include="wwwroot\clientapp\main-es5.js" />
+    <None Include="wwwroot\clientapp\main-es5.js.map" />
+    <None Include="wwwroot\clientapp\polyfills-es2015.js" />
+    <None Include="wwwroot\clientapp\polyfills-es2015.js.map" />
+    <None Include="wwwroot\clientapp\polyfills-es5.js" />
+    <None Include="wwwroot\clientapp\polyfills-es5.js.map" />
+    <None Include="wwwroot\clientapp\runtime-es2015.js" />
+    <None Include="wwwroot\clientapp\runtime-es2015.js.map" />
+    <None Include="wwwroot\clientapp\runtime-es5.js" />
+    <None Include="wwwroot\clientapp\runtime-es5.js.map" />
+    <None Include="wwwroot\clientapp\styles-es2015.js" />
+    <None Include="wwwroot\clientapp\styles-es2015.js.map" />
+    <None Include="wwwroot\clientapp\styles-es5.js" />
+    <None Include="wwwroot\clientapp\styles-es5.js.map" />
+    <None Include="wwwroot\clientapp\vendor-es2015.js" />
+    <None Include="wwwroot\clientapp\vendor-es2015.js.map" />
+    <None Include="wwwroot\clientapp\vendor-es5.js" />
+    <None Include="wwwroot\clientapp\vendor-es5.js.map" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.9" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.9" />
@@ -33,10 +56,6 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="wwwroot\ts\storecustomer.ts" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="ClientApp\" />
   </ItemGroup>
 
 </Project>
