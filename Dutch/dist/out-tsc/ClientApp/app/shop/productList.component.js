@@ -3,7 +3,6 @@ import { Component } from "@angular/core";
 let ProductList = class ProductList {
     constructor(data) {
         this.data = data;
-        this.products = [];
     }
     ngOnInit() {
         this.data.loadProducts()

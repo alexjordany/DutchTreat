@@ -9,7 +9,7 @@ import { Product } from "../shared/product";
 })  
 
 export class ProductList implements OnInit {
-    public products: Product[] = [];
+    public products: Product[];
 
     constructor(private data: DataService) {
     }
@@ -27,3 +27,4 @@ export class ProductList implements OnInit {
         this.data.AddToOrder(product);
     }
 }
+
