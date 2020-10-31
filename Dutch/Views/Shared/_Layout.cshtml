@@ -2,10 +2,21 @@
 <html>
 <head>
     <title>Dutch Treat: @ViewBag.Title</title>
-    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
-    <link href="~/css/fabric.min.css" rel="stylesheet" />
-    <link href="~/lib/font-awesome/css/all.css" rel="stylesheet" />
-    <link href="~/css/site.css" rel="stylesheet" />
+
+    <environment names="Development">
+        <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+        <link href="~/css/fabric.min.css" rel="stylesheet" />
+        <link href="~/lib/font-awesome/css/all.css" rel="stylesheet" />
+        <link href="~/css/site.css" rel="stylesheet" />
+    </environment>
+
+    <environment names="Staging, Production">
+        <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/css/fabric.min.css" rel="stylesheet" />
+        <link href="~/lib/font-awesome/css/all.min.css" rel="stylesheet" />
+        <link href="~/css/site.css" rel="stylesheet" />
+    </environment>
+
 </head>
 <body>
     <header class="container">
@@ -43,10 +54,21 @@
         <div class="text-center">Copyright 2020 Dutch Treat LLC.</div>
     </footer>
 
+    <environment names="Development">
+        <script src="~/lib/jquery/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/index.js"></script>
+    </environment>
+    <environment names="Staging, Production">
+        <script src="~/dist/dutchtreat.min.js" asp-append-version="true"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.1.min.js"
+                asp-fallback-src="~/lib/jquery/jquery.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"></script>
 
-    <script src="~/lib/jquery/jquery.min.js"></script>
-    <script src="~/js/index.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.5.2/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery"></script>
+    </environment>
     @RenderSection("scripts", false)
 </body>
 </html>

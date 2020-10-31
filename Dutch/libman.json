@@ -26,6 +26,6 @@
     {
       "library": "font-awesome-animation@0.3.0",
       "destination": "wwwroot/lib/font-awesome-animation/"
-    } 
+    }
   ]
 }
